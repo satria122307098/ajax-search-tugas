@@ -1,1 +1,1 @@
-# ajax-search-tugas
+Merupakan aplikasi Live search, dimana akan mencari data mahasiswa berdasarkan nama, NIM, serta ada tambahan fitur pencarian berdasarkan Jurusan. Hasil akan ditampilkan dalam tabel bootstrap, menampilkan loader dengan efek spinner dari Bootstrap saat pencarian berlangsung serta data yang ditampilkan merupakan data real-time dari MySQL.
